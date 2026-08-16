@@ -1,42 +1,14 @@
-# Laboratory 01 – Welcome to the Cloud
+# Cloud Computing Portfolio 
 
-## Mission Overview
+## About Me
 
-This laboratory activity introduced me to a cloud-based Linux environment using KillerCoda. I also learned how to use basic Linux commands and create a GitHub repository.
+My name is Marlon Delmonte.
 
-## Objectives
+I am a college student taking Cloud Computing.
 
-- Access a Linux environment using KillerCoda
-- Explore Linux
-- Check system information
-- Create files and folders
-- Create a GitHub repository
-- Use Markdown
+This repository will contain my laboratory activities, documentation,
+screenshots, and other projects completed throughout the semester. 
 
-## Activities Performed
+## Course
 
-- Opened Ubuntu using KillerCoda
-- Created a Linux user
-- Checked system information
-- Created folders and Markdown files
-- Created a GitHub repository
-- Organized my laboratory files
-
-## Linux Commands Used
-
-- whoami
-- pwd
-- hostname
-- ls
-- cd
-- mkdir
-- nano
-- cat
-- uname
-- lscpu
-- free
-- df
-
-## Skills Learned
-
-I learned basic Linux commands, file organization, Markdown, and how to create and organize a GitHub repository.
+CCM101 - Cloud Computing
